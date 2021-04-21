@@ -9,7 +9,7 @@
 package layers
 
 import (
-	"github.com/google/gopacket"
+	"github.com/graniet/gopacket"
 	"reflect"
 	"testing"
 )
